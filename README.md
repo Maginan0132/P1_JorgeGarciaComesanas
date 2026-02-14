@@ -16,6 +16,7 @@ Este script regula el comportamiento de las plataformas que se caen un poco desp
 - Que es con un jugador.
 - Que no se esté ejecutando activamente la animación.
 - Que la colisión haya sido con la parte superior de la plataforma.
+
 Cuando confirma estas 3 cosas ejecuta una Coroutine para poder hacer que espere a empezar y para que pueda ejecutar un bucle while sin que Unity espera a su ejecución completa para el renderizado.
 
 ### MovimientoPlataforma
