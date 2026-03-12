@@ -1,0 +1,1844 @@
+fileFormatVersion: 2
+guid: 3556d2cb1767a1244bcaa83c5b2f1305
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 587
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fe54685f2f89049b91d02953a98d3c
+      internalID: 1159493874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 599
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245ee5d573d5c924ba4c2588cc823765
+      internalID: 538035958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_2
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 587
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95d2f9b959679b4dafc309f782844fe
+      internalID: 1765549184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 419
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8c2ddaaf02a734b8420bf8ee19436d
+      internalID: -1740557355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_4
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 407
+        width: 110
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4197a056a5e1544824f24924833adc
+      internalID: 1903549624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_5
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 455
+        width: 61
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eda59a3da4f0a40b7a4f8736620dde
+      internalID: 406198221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_6
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 527
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530e82aa532410945a06dcca3f63518e
+      internalID: 1314392110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_7
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 563
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6193310965851f449a4c7ef0135354da
+      internalID: 1758460604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_8
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 539
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accc070cd0533af4ea4d97599b9a719a
+      internalID: -1464626576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_9
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 563
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444a3acc5b188b447af3839d673dfd48
+      internalID: -1785790060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_10
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 419
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982630558243dfe4c935cd3132f10abe
+      internalID: 1360348098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_11
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 563
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c509de090c4df64cad6e06f69f76a1e
+      internalID: -1117507245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_12
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 551
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e212d6c0bcaf0d5418e75d7dde5074c8
+      internalID: 1952673397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_13
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 443
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b32e859077f0ce4d90bd9f33a7dc407
+      internalID: -635994489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_14
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 527
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0620bde7dd759f14e948894d059465a8
+      internalID: 674868363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_15
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 467
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb3d1869786b7741877e1fb93fa68d8
+      internalID: -1029007627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_16
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 527
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd39a71ce354eb0428c371637dd58526
+      internalID: -1246723937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_17
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 455
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321e5665282a72f47be7dc4ee7c2299c
+      internalID: 1629011904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 491
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503bef4bf689a8b4fbc66bdb2b2f237b
+      internalID: -937418905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 491
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aacd15e2a17d1a45b5f06423ab999a5
+      internalID: 359766695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_20
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 491
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265e8c6f063e21144a414a48b6c1ade3
+      internalID: 929589141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_21
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 491
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b19c1f44782a94d9dadf5ae9ddc927
+      internalID: 1976760570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_22
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 407
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebe460167eae6a4ea198913153d2c59
+      internalID: -1474717436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_23
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 491
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb1da133963bac4a8537ac3d609fd27
+      internalID: -70366680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_24
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 491
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6745d73a142b4479d1250d2fb23834
+      internalID: 1670264946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_25
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 491
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42c99944fb36304d8c6e9901630297c
+      internalID: -1373185019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_26
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 491
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1e66e7002f6a04ea5861f2e421fbb7
+      internalID: 1024012457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_27
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 491
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e1dc1708b24794dbda3fc715683153
+      internalID: -2096655825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_28
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 491
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d2bba08c339134aaa68192b7ef484f
+      internalID: -722896244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_29
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 491
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be70dbbc54d6844991cbedea79176a8
+      internalID: -1756339429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_30
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 491
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59912c185bcde643a318cfbc66f1d2c
+      internalID: 802035703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_31
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 455
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb537a7a83e72714b85cc56b00034b62
+      internalID: 570387881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_32
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 431
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cbdb0ebd69d154e8662dfb6282a259
+      internalID: -462573963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_33
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 455
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf072bd84addc1438361c9cbc4c3bc9
+      internalID: 1111165006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_34
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 419
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de08a2f096c07d34e8a06d82fc7aaf1f
+      internalID: -1278927143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_35
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 407
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2265b83e6053621409db94159bdf8d02
+      internalID: -699461675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_36
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 407
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ec9fe4388fd234199e16ad33c05cac
+      internalID: -2097801906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_37
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 431
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbabd0c1f374954eb206f805a029726
+      internalID: -588909858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 395
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d30d17356bd92f47b195f77f246ccaf
+      internalID: 1774611020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_39
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 383
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e92dee466eda94aab4f8b98556da56
+      internalID: -1832442984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_40
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 383
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be752d8bfa8740d468de81ac04082bd4
+      internalID: -1432364594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_41
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 83
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eae331520d5b4f4e91ff4bfb9ca5eac
+      internalID: 1509183262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 216
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e8cd30e22861940990be8a47f1f841
+      internalID: 1913493567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_43
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 203
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0ecd867b1dd3e4f99663935002974c
+      internalID: -652619061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_44
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 215
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a32e44440a29d4584fe1f6417e3715
+      internalID: -782629024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_45
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 89
+        width: 159
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec99d0417c698874dac7c4be7ec7efd1
+      internalID: 1446035063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_46
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 173
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cd0aadb87df3348a40db998d6f943c
+      internalID: 654338667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_47
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 215
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0003a6314fdd5c341a0d3dbe582f0314
+      internalID: 1026251268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_48
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 215
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734b8d9db533a814eb6619461694860b
+      internalID: 1136033783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_49
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 95
+        width: 146
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fac17105d0ad474ea32619b1e58ee19
+      internalID: 310247148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_50
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 223
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9a61d561255d04db01199ec395a097
+      internalID: 565597658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_51
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 119
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0437f3301177423449d5d0c71aa12c36
+      internalID: 778802772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_52
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 119
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb5f9aea57e6f7408cca4cd9712327d
+      internalID: -1272142421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_53
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 191
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6010e88513f5a0841a5ec41916ada7e5
+      internalID: -669929141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_54
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 187
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71368c111caa63640b3c50f9e671aa63
+      internalID: -1342367804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_55
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 175
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa72bb448240c714fb52fd210dfc99c1
+      internalID: -430572087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_56
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 187
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77ad227a02794d41b35d316dd7d1694
+      internalID: 221750792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_57
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 155
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e724be77a6a2c40b9532828c880273
+      internalID: -1195927887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_58
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 155
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5134d44a7478e4f899625ef4ff2db3
+      internalID: -1278539185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_59
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 125
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbea5a6446335a4bb0bf107306f4067
+      internalID: -1986817057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_60
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 155
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722abfd6e26c0e6459d675330b65ef6d
+      internalID: -437470780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_61
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 155
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097a82b421b0b7f4fa300983cbf12efa
+      internalID: -1388714931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_62
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 160
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f69f4c586d0ccf4ab5723aaf5aba3cb
+      internalID: 1563293488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_63
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 150
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15357d61d46993c4aa5f7a33cc3aff1a
+      internalID: -45519554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_64
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 89
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88436b33511cc643b7388d5a98a1b5c
+      internalID: -2049504278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_65
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 107
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c702b0bd84dc84eaef3e6133428fe6
+      internalID: -1362040829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_66
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 124
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689029ff78be4a647b4d59dc5e81896b
+      internalID: 1606373759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_67
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 112
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eba3bf9a2b538d439b491ea9a29a92a
+      internalID: -1923094967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_68
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 124
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c622e5aa7baa4a54a8822d86d5262f31
+      internalID: 1369373276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 98
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee105906b1109f74b87bd5698ed4549f
+      internalID: -2046941486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_70
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 95
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8a449193acfef43856aa12023d54d5
+      internalID: -1395539403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_71
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 95
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9527fd82fe4b514185c3c76b9d00890
+      internalID: 2008219574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_72
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 98
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28aec85233a3874b910bd692ae05ca7
+      internalID: -333470613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_73
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 95
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf3d6f364a48934687d51c679f5dbda
+      internalID: -2142888912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-stars-set-yellow-geometric-shapes-space_74
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 88
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721dac6e5e789084494884ec5eb9436f
+      internalID: 1985580687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f0d406ab74a148b4a97e77c52314ba88
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":320.0,"y":320.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      pixel-stars-set-yellow-geometric-shapes-space_0: 1159493874
+      pixel-stars-set-yellow-geometric-shapes-space_1: 538035958
+      pixel-stars-set-yellow-geometric-shapes-space_10: 1360348098
+      pixel-stars-set-yellow-geometric-shapes-space_11: -1117507245
+      pixel-stars-set-yellow-geometric-shapes-space_12: 1952673397
+      pixel-stars-set-yellow-geometric-shapes-space_13: -635994489
+      pixel-stars-set-yellow-geometric-shapes-space_14: 674868363
+      pixel-stars-set-yellow-geometric-shapes-space_15: -1029007627
+      pixel-stars-set-yellow-geometric-shapes-space_16: -1246723937
+      pixel-stars-set-yellow-geometric-shapes-space_17: 1629011904
+      pixel-stars-set-yellow-geometric-shapes-space_18: -937418905
+      pixel-stars-set-yellow-geometric-shapes-space_19: 359766695
+      pixel-stars-set-yellow-geometric-shapes-space_2: 1765549184
+      pixel-stars-set-yellow-geometric-shapes-space_20: 929589141
+      pixel-stars-set-yellow-geometric-shapes-space_21: 1976760570
+      pixel-stars-set-yellow-geometric-shapes-space_22: -1474717436
+      pixel-stars-set-yellow-geometric-shapes-space_23: -70366680
+      pixel-stars-set-yellow-geometric-shapes-space_24: 1670264946
+      pixel-stars-set-yellow-geometric-shapes-space_25: -1373185019
+      pixel-stars-set-yellow-geometric-shapes-space_26: 1024012457
+      pixel-stars-set-yellow-geometric-shapes-space_27: -2096655825
+      pixel-stars-set-yellow-geometric-shapes-space_28: -722896244
+      pixel-stars-set-yellow-geometric-shapes-space_29: -1756339429
+      pixel-stars-set-yellow-geometric-shapes-space_3: -1740557355
+      pixel-stars-set-yellow-geometric-shapes-space_30: 802035703
+      pixel-stars-set-yellow-geometric-shapes-space_31: 570387881
+      pixel-stars-set-yellow-geometric-shapes-space_32: -462573963
+      pixel-stars-set-yellow-geometric-shapes-space_33: 1111165006
+      pixel-stars-set-yellow-geometric-shapes-space_34: -1278927143
+      pixel-stars-set-yellow-geometric-shapes-space_35: -699461675
+      pixel-stars-set-yellow-geometric-shapes-space_36: -2097801906
+      pixel-stars-set-yellow-geometric-shapes-space_37: -588909858
+      pixel-stars-set-yellow-geometric-shapes-space_38: 1774611020
+      pixel-stars-set-yellow-geometric-shapes-space_39: -1832442984
+      pixel-stars-set-yellow-geometric-shapes-space_4: 1903549624
+      pixel-stars-set-yellow-geometric-shapes-space_40: -1432364594
+      pixel-stars-set-yellow-geometric-shapes-space_41: 1509183262
+      pixel-stars-set-yellow-geometric-shapes-space_42: 1913493567
+      pixel-stars-set-yellow-geometric-shapes-space_43: -652619061
+      pixel-stars-set-yellow-geometric-shapes-space_44: -782629024
+      pixel-stars-set-yellow-geometric-shapes-space_45: 1446035063
+      pixel-stars-set-yellow-geometric-shapes-space_46: 654338667
+      pixel-stars-set-yellow-geometric-shapes-space_47: 1026251268
+      pixel-stars-set-yellow-geometric-shapes-space_48: 1136033783
+      pixel-stars-set-yellow-geometric-shapes-space_49: 310247148
+      pixel-stars-set-yellow-geometric-shapes-space_5: 406198221
+      pixel-stars-set-yellow-geometric-shapes-space_50: 565597658
+      pixel-stars-set-yellow-geometric-shapes-space_51: 778802772
+      pixel-stars-set-yellow-geometric-shapes-space_52: -1272142421
+      pixel-stars-set-yellow-geometric-shapes-space_53: -669929141
+      pixel-stars-set-yellow-geometric-shapes-space_54: -1342367804
+      pixel-stars-set-yellow-geometric-shapes-space_55: -430572087
+      pixel-stars-set-yellow-geometric-shapes-space_56: 221750792
+      pixel-stars-set-yellow-geometric-shapes-space_57: -1195927887
+      pixel-stars-set-yellow-geometric-shapes-space_58: -1278539185
+      pixel-stars-set-yellow-geometric-shapes-space_59: -1986817057
+      pixel-stars-set-yellow-geometric-shapes-space_6: 1314392110
+      pixel-stars-set-yellow-geometric-shapes-space_60: -437470780
+      pixel-stars-set-yellow-geometric-shapes-space_61: -1388714931
+      pixel-stars-set-yellow-geometric-shapes-space_62: 1563293488
+      pixel-stars-set-yellow-geometric-shapes-space_63: -45519554
+      pixel-stars-set-yellow-geometric-shapes-space_64: -2049504278
+      pixel-stars-set-yellow-geometric-shapes-space_65: -1362040829
+      pixel-stars-set-yellow-geometric-shapes-space_66: 1606373759
+      pixel-stars-set-yellow-geometric-shapes-space_67: -1923094967
+      pixel-stars-set-yellow-geometric-shapes-space_68: 1369373276
+      pixel-stars-set-yellow-geometric-shapes-space_69: -2046941486
+      pixel-stars-set-yellow-geometric-shapes-space_7: 1758460604
+      pixel-stars-set-yellow-geometric-shapes-space_70: -1395539403
+      pixel-stars-set-yellow-geometric-shapes-space_71: 2008219574
+      pixel-stars-set-yellow-geometric-shapes-space_72: -333470613
+      pixel-stars-set-yellow-geometric-shapes-space_73: -2142888912
+      pixel-stars-set-yellow-geometric-shapes-space_74: 1985580687
+      pixel-stars-set-yellow-geometric-shapes-space_8: -1464626576
+      pixel-stars-set-yellow-geometric-shapes-space_9: -1785790060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
