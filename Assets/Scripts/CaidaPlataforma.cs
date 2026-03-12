@@ -27,8 +27,8 @@ public class CaidaPlataforma : MonoBehaviour
     void OnCollisionEnter(Collision collision)
     {
         Vector3 normal = collision.contacts[0].normal;
-
-        if(collision.gameObject.CompareTag("Jugador") && !colision && normal == collision.gameObject.transform.up)
+        
+        if(collision.gameObject.CompareTag("Jugador") && !colision && -normal == collision.gameObject.transform.up)
         {
             colision = true;
             StartCoroutine(Timer(tiempo));

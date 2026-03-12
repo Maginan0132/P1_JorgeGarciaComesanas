@@ -1,4 +1,5 @@
 using UnityEngine.Animations;
+using System.Collections;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -8,16 +9,20 @@ public class PlayerController : MonoBehaviour
     private float salto = 6f;
     [SerializeField] private Animator animator;
     private bool isGrounded;
+    private bool isFrozen = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         animator = GetComponent<Animator>();
+        GameManager.INSTANCIA.Respawn += vuelvePosicionInicial;
     }
 
     // Update is called once per frame
     void Update()
     {
+        if(isFrozen) return;
+
         float hor = Input.GetAxis("Horizontal");
         float ver = Input.GetAxis("Vertical");
 
@@ -77,5 +82,22 @@ public class PlayerController : MonoBehaviour
         {
             isGrounded = false;
         }
+    }
+
+    private void vuelvePosicionInicial()
+    {
+        transform.position = new Vector3(0, 0.5f, 0);
+        transform.rotation = Quaternion.identity;
+        rb.linearVelocity = Vector3.zero;
+        animator.WriteDefaultValues();
+
+        StartCoroutine(Congelar(1.0f));
+    }
+
+    private IEnumerator Congelar(float duracion)
+    {
+        isFrozen = true;
+        yield return new WaitForSeconds(duracion);
+        isFrozen = false;
     }
 }
